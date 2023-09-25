@@ -1,0 +1,11 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8"> 
+	<title>ITMD-361 Internet Techologies and Wed Design</title>
+</head>
+<body>
+	<p>&amp; Hello world. This is my first website!</p>
+	</body>
+	</html>
+	
